@@ -1,4 +1,4 @@
-﻿accent-mobster-prefix-1 = Nyehh,
+﻿accent-mobster-prefix-1 = Єх,
 
 accent-mobster-suffix-boss-1 = , бач?
 accent-mobster-suffix-boss-2 = , та збудь про це.

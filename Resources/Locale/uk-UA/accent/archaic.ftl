@@ -10,7 +10,7 @@ accent-archaic-replaced-3 = ніж
 accent-archaic-replacement-3 = аніжели
 
 accent-archaic-replaced-4 = голова
-accent-archaic-replacement-4 = атаман
+accent-archaic-replacement-4 = отаман
 
 accent-archaic-replaced-5 = вигадка
 accent-archaic-replacement-5 = басня
@@ -19,7 +19,7 @@ accent-archaic-replaced-6 = вигадки
 accent-archaic-replacement-6 = басни
 
 accent-archaic-replaced-7 = розсуд
-accent-archaic-replacement-7 = баченьє
+accent-archaic-replacement-7 = бачення
 
 accent-archaic-replaced-8 = дракон
 accent-archaic-replacement-8 = бестія
@@ -121,5 +121,5 @@ accent-archaic-replaced-40 = півтора
 accent-archaic-replacement-40 = пултори
 
 accent-archaic-replaced-41 = рік
-accent-archaic-replacement-41 = рок
+accent-archaic-replacement-41 = літ
 

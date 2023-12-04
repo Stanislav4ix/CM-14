@@ -42,8 +42,8 @@ accent-pirate-replacement-12 = дублони
 accent-pirate-replaced-13 = cash
 accent-pirate-replacement-13 = doubloons
 
-accent-pirate-replaced-14 = crate
-accent-pirate-replacement-14 = coffer
+accent-pirate-replaced-14 = ящик
+accent-pirate-replacement-14 = скриня
 
 accent-pirate-replaced-15 = вітаю
 accent-pirate-replacement-15 = ахой
@@ -69,8 +69,8 @@ accent-pirate-replacement-21 = shanty
 accent-pirate-replaced-22 = music
 accent-pirate-replacement-22 = shanty
 
-accent-pirate-replaced-23 = no
-accent-pirate-replacement-23 = nay
+accent-pirate-replaced-23 = ні
+accent-pirate-replacement-23 = най
 
 accent-pirate-replaced-24 = are
 accent-pirate-replacement-24 = arrr
@@ -78,8 +78,8 @@ accent-pirate-replacement-24 = arrr
 accent-pirate-replaced-25 = ow
 accent-pirate-replacement-25 = argh
 
-accent-pirate-replaced-26 = ouch
-accent-pirate-replacement-26 = argh
+accent-pirate-replaced-26 = ауч
+accent-pirate-replacement-26 = аргх
 
 accent-pirate-replaced-27 = passenger
 accent-pirate-replacement-27 = landlubber
@@ -87,8 +87,8 @@ accent-pirate-replacement-27 = landlubber
 accent-pirate-replaced-28 = tider
 accent-pirate-replacement-28 = landlubber
 
-accent-pirate-replaced-29 = captain
-accent-pirate-replacement-29 = cap'n
+accent-pirate-replaced-29 = капітан
+accent-pirate-replacement-29 = кеп
 
 accent-pirate-replaced-30 = pistol
 accent-pirate-replacement-30 = flintlock

@@ -15,13 +15,13 @@ accent-words-dog-4 = Арф.
 accent-words-dog-5 = Ґррр.
 
 # Mouse
-accent-words-mouse-1 = Squeak!
+accent-words-mouse-1 = Сквік!
 accent-words-mouse-2 = Пііп!
 accent-words-mouse-3 = Чуу!
-accent-words-mouse-4 = Eeee!
+accent-words-mouse-4 = Уііі!
 accent-words-mouse-5 = Піп!
-accent-words-mouse-6 = Fwiep!
-accent-words-mouse-7 = Heep!
+accent-words-mouse-6 = Віп!
+accent-words-mouse-7 = Хіп!
 
 # Mumble
 accent-words-mumble-1 = Умф!
@@ -46,7 +46,7 @@ accent-words-zombie-2 = Мваааааа..
 accent-words-zombie-3 = Мміііізки...
 accent-words-zombie-4 = Ґррррр...
 accent-words-zombie-5 = Ууааа...
-accent-words-zombie-6 = Graaaaaooohhlll...
+accent-words-zombie-6 = Граааааах...
 accent-words-zombie-7 = Міізки... Мізочки..
 accent-words-zombie-8 = Бвааа...
 accent-words-zombie-9 = Бвееее...
@@ -79,7 +79,7 @@ accent-words-pig-4 = Хрю хрю!
 # Kangaroo
 accent-words-kangaroo-1 = Ґрр!
 accent-words-kangaroo-2 = Хашш!
-accent-words-kangaroo-3 = Shreak!
+accent-words-kangaroo-3 = Шрек!
 accent-words-kangaroo-4 = Чуу!
 
 # Slimes
@@ -90,4 +90,4 @@ accent-words-slimes-4 = Блууумп...
 accent-words-slimes-5 = Блап бламп!
 
 # Mothroach
-accent-words-mothroach-1 = Chirp!
+accent-words-mothroach-1 = Чіп!

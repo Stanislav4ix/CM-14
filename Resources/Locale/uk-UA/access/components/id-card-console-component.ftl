@@ -7,6 +7,6 @@ id-card-console-window-eject-button = Вийняти
 id-card-console-window-insert-button = Вставити
 id-card-console-window-job-selection-label = Пресети робот:
 
-access-id-card-console-component-no-hands-error = У вас нема рук.
+access-id-card-console-component-no-hands-error = У вас нема рук, де ви їх поділи?!
 id-card-console-privileged-id = Привілейоване ID
 id-card-console-target-id = Цільове ID
