@@ -4,7 +4,7 @@ cm-xeno-not-enough-plasma = У вас недостатньо плазми!
 # Costruction
 cm-xeno-choose-resin-structure = Оберіть Гумову Структуру
 cm-xeno-order-construction = Побудувати Структуру
-cm-xeno-too-close-to-other-node = Дуже близько до {$target}!
+cm-xeno-too-close-to-other-node = Занадто близько до {$target}!
 cm-xeno-requires-more-plasma = {$construction} потребує {$plasma} більше плазми.
 cm-xeno-construction-plasma-left = {$construction} Тут позначається споруда. Їй потрібно [color=cyan]{$plasma}[/color] більше плазми.
 cm-xeno-cant-reach-there = Ви не можете дотягнутись!
@@ -27,7 +27,7 @@ cm-xeno-leap-cancelled = Ви скасували стрибок!
 cm-xeno-weeds-already-here = Тут уже є рослинність!
 
 # Corrosive acid
-cm-xeno-acid-not-corrodable = роз'їдаюча кислота не може роз'їсти {$target}!
+cm-xeno-acid-not-corrodable = Роз'їдаюча кислота не може роз'їсти {$target}!
 cm-xeno-acid-already-corroding = {$target} вже покритий роз'їдаючею кислотою!
 
 # Devour
